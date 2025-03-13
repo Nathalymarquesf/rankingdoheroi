@@ -16,7 +16,7 @@ O programa define o nome do jogador e a quantidade de vitórias. Em seguida, usa
 - **Entre 91 e 100 vitórias** → 🏅 **Lendário**  
 - **Mais de 101 vitórias** → 🏅 **Imortal**  
 
-#### 🛠 Como executar?
+### 🛠 Como executar?
 Certifique-se de ter o Node.js instalado em sua máquina.
 Copie e cole o código em um arquivo index.js.
 No terminal, execute o comando:
@@ -26,6 +26,6 @@ Editar
 node index.js
 O resultado será exibido no console.
 
-##### 📌 Observações
+### 📌 Observações
 O valor da variável vitoria pode ser alterado para testar diferentes rankings.
 O código pode ser adaptado para receber os valores do usuário através do prompt().
